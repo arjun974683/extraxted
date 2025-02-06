@@ -8,13 +8,13 @@
         "pyrogram"
     ],
     "env": {
-            "API_ID": {
+            "API_ID": "23680771"
             "description": "Your API_ID from https://my.telegram.org/apps",
             "value": "",
             "required": true
         },
-        "API_HASH": {
-            "description": "Your API_HASH from https://my.telegram.org/apps",       
+        "API_HASH": "0c58f3e3fecefc4a9d8e5bcf6968a106"
+            "description": "YourAPI_HASH from https://my.telegram.org/apps",       
             "value": "",
             "required": true
         },
